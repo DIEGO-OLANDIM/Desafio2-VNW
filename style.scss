@@ -1,0 +1,50 @@
+
+// reset da pagina 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background: #BAF3F6;
+
+}
+main{
+height: 95vh;
+margin-left: 3rem;
+}
+
+section{
+    padding: 10px;
+}
+
+img{
+    width: 6.25rem;
+border-radius: 50%;
+width: 6.25rem;
+}
+footer{
+    margin: -2px;
+    border: solid   #F587DD  ; background: #D9D9D9;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    .textofooter{
+        color: black;
+    }
+}
+li{
+    margin-left: 15px;
+    
+}
+h2{
+    color:  #F587DD;   
+    padding: 10px 0; 
+
+    padding: 10px;
+}
+p{
+    padding-bottom: 10px;
+}
+
